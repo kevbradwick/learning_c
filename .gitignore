@@ -15,3 +15,6 @@
 *.exe
 *.out
 *.app
+
+# compiled binaries
+*_bin
